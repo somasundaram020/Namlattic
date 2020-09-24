@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-24T16:32:45Z" name="Namlatic Test Case" finished-at="2020-09-24T16:35:07Z" duration-ms="141813">
+    <groups>
+    </groups>
+    <test started-at="2020-09-24T16:32:45Z" name="Login" finished-at="2020-09-24T16:33:12Z" duration-ms="26988">
+      <class name="Automation.namlatic.LoginTestcase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Automation.namlatic.LoginTestcase@2d710f1a]" started-at="2020-09-24T16:32:45Z" name="initialize" finished-at="2020-09-24T16:33:04Z" duration-ms="19009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="login()[pri:0, instance:Automation.namlatic.LoginTestcase@2d710f1a]" started-at="2020-09-24T16:33:05Z" name="login" finished-at="2020-09-24T16:33:06Z" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:Automation.namlatic.LoginTestcase@2d710f1a]" started-at="2020-09-24T16:33:06Z" name="signOut" finished-at="2020-09-24T16:33:12Z" duration-ms="6382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+      </class> <!-- Automation.namlatic.LoginTestcase -->
+    </test> <!-- Login -->
+    <test started-at="2020-09-24T16:33:12Z" name="search" finished-at="2020-09-24T16:33:52Z" duration-ms="39815">
+      <class name="Automation.namlatic.Searchtestcase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Automation.namlatic.Searchtestcase@65c7a252]" started-at="2020-09-24T16:33:12Z" name="initialize" finished-at="2020-09-24T16:33:37Z" duration-ms="24281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="search()[pri:0, instance:Automation.namlatic.Searchtestcase@65c7a252]" started-at="2020-09-24T16:33:37Z" name="search" finished-at="2020-09-24T16:33:48Z" duration-ms="11605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:Automation.namlatic.Searchtestcase@65c7a252]" started-at="2020-09-24T16:33:48Z" name="signOut" finished-at="2020-09-24T16:33:52Z" duration-ms="3924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+      </class> <!-- Automation.namlatic.Searchtestcase -->
+    </test> <!-- search -->
+    <test started-at="2020-09-24T16:33:52Z" name="selecthotel" finished-at="2020-09-24T16:34:33Z" duration-ms="40283">
+      <class name="Automation.namlatic.Selecthoteltestcase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Automation.namlatic.Selecthoteltestcase@f09733f]" started-at="2020-09-24T16:33:52Z" name="initialize" finished-at="2020-09-24T16:34:13Z" duration-ms="20807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="search()[pri:0, instance:Automation.namlatic.Selecthoteltestcase@f09733f]" started-at="2020-09-24T16:34:13Z" name="search" finished-at="2020-09-24T16:34:29Z" duration-ms="15478" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:Automation.namlatic.Selecthoteltestcase@f09733f]" started-at="2020-09-24T16:34:29Z" name="signOut" finished-at="2020-09-24T16:34:33Z" duration-ms="3991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+      </class> <!-- Automation.namlatic.Selecthoteltestcase -->
+    </test> <!-- selecthotel -->
+    <test started-at="2020-09-24T16:34:33Z" name="profile" finished-at="2020-09-24T16:35:07Z" duration-ms="34641">
+      <class name="Automation.namlatic.Profiletestcase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Automation.namlatic.Profiletestcase@6c1a5b54]" started-at="2020-09-24T16:34:33Z" name="initialize" finished-at="2020-09-24T16:34:59Z" duration-ms="26635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="profile()[pri:0, instance:Automation.namlatic.Profiletestcase@6c1a5b54]" started-at="2020-09-24T16:34:59Z" name="profile" finished-at="2020-09-24T16:35:03Z" duration-ms="4049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profile -->
+        <test-method is-config="true" signature="signOut()[pri:0, instance:Automation.namlatic.Profiletestcase@6c1a5b54]" started-at="2020-09-24T16:35:03Z" name="signOut" finished-at="2020-09-24T16:35:07Z" duration-ms="3954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOut -->
+      </class> <!-- Automation.namlatic.Profiletestcase -->
+    </test> <!-- profile -->
+  </suite> <!-- Namlatic Test Case -->
+</testng-results>
